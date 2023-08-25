@@ -1,0 +1,15 @@
+aight... so heres my take on the logic
+
+generate a random number using the time as a seed. limit the number based on how many words are available
+
+Input a character, iterate through the chosen word and match chars
+
+check to make sure the letter is or isnt in the selected word
+
+if wrong {
+  save the letter and draw stickwaites
+}
+if right {
+  show every matching letter.
+}
+
