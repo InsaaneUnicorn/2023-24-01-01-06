@@ -1,16 +1,17 @@
-//found this code online and refactored it, you can delete if you want -@stewinurmom on twitter
+/*//found this code online and refactored it, you can delete if you want
+-@stewinurmom on twitter
 
 #include <stdio.h>
 #include <string.h>
 #include <time.h>
 
 int main() {
-    
+
   srand(time(NULL));
   printf("Welcome to Hang Waites!");
   // Get word to guess
-  char wordBank[6][20] = {"mr waites","documentation","python", "its in the guides", "exit status -1", "segmentation fault"};
-  char answer[128];
+  char wordBank[6][20] = {"mr waites","documentation","python", "its in the
+guides", "exit status -1", "segmentation fault"}; char answer[128];
   strcpy(answer, wordBank[rand() % 6]);
   //printf("Enter word to guess: ");
   fflush(stdout);
@@ -48,7 +49,7 @@ int main() {
     // Mark true all mask positions corresponding to guess
     for(int k=0; k < N; ++k) {
       if (answer[k] == guess) {
-	mask[k] = 1;
+        mask[k] = 1;
       }
     }
 
@@ -67,3 +68,4 @@ int main() {
 
   return 0;
 }
+*/

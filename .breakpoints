@@ -1,3 +1,12 @@
 {
-  "files": {}
+  "files": {
+    "todo.txt": [
+      {
+        "id": "73cbe81d-7b48-44e5-a74d-ae5221eb8127",
+        "line": 4,
+        "version": 113,
+        "index": 114
+      }
+    ]
+  }
 }

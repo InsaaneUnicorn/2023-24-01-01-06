@@ -1,4 +1,4 @@
-//found this code online and refactored it, you can delete if you want -@stewinurmom on twitter
+/*//found this code online and refactored it, you can delete if you want -@stewinurmom on twitter
 
 #include <stdio.h>
 #include <string.h>
@@ -67,3 +67,4 @@ int main() {
 
   return 0;
 }
+*/

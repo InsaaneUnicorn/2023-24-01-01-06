@@ -1,0 +1,6 @@
+TODO: 
+			Add Hanging mr.waties (most likely with ascii art)
+ 			Add previous letters guessed
+			Fix the play agan
+	 		Fix all the Git repo stuff
+			Make code conventions and all agree
