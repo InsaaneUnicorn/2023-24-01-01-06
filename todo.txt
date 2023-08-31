@@ -1,4 +1,4 @@
-TODO: 
+lTODO: 
 			Add it to where the user can change the Welcome to hang waites banner. Make the program more user friendly
 			REFACTOR our code, and arrays to impliment DMA so that we can save on memory.
  			Add previous letters guessed
@@ -17,4 +17,4 @@ TODO:
 
  Vincent: I got the menu boys 
 
- ./main to run program in shell :)
+ ./main to run program in shell :(
