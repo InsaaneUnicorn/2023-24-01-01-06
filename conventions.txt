@@ -1,0 +1,8 @@
+Variables in camel case w/ the datatype in the name.
+Variables descibe something so they should be named nouns.
+Functions use underscores
+Function should be "actions" - verbs. Name the functions with verbs.
+  //unless it returns a value like true/false
+showMainMenu()
+
+https://github.com/MaJerle/c-code-style#recommended-c-style-and-coding-rules

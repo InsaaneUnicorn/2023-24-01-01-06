@@ -1,6 +1,20 @@
 TODO: 
-			Add Hanging mr.waties (most likely with ascii art)
+			Add it to where the user can change the Welcome to hang waites banner. Make the program more user friendly
+			REFACTOR our code, and arrays to impliment DMA so that we can save on memory.
  			Add previous letters guessed
-			Fix the play agan
-	 		Fix all the Git repo stuff
+			Add Hanging mr.waties w/ the stages (most likely with ascii art)
+			Fix the play again (fixed?)
 			Make code conventions and all agree
+	 		Have the code check for capitals and symbols
+	 		if user types google, chrome, sundar replit stops/crashes.
+			ask if user wants to solve
+	 		add that the user can only input one character at a time (we also gotta start refactoring our code to use String.h)
+			Have a menu where you can choose to play the game and add it to where the user can change the wordbank.
+			the user says Googhoul they automatically win
+      have user select/change the wordbank & antigoogle in menu
+			wordBank and antiGoogle should be seperate so that the program checks for them and do the according procedures.
+
+
+ Vincent: I got the menu boys 
+
+ ./main to run program in shell :)

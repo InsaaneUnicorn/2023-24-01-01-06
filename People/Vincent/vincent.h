@@ -1,1 +1,3 @@
-void printVincent();
+void showMainMenu();
+
+void editWords(char list);

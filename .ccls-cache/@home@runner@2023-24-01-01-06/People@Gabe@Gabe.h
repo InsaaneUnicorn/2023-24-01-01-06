@@ -1,1 +1,1 @@
-void sayGabe();
+void testGabesWords();

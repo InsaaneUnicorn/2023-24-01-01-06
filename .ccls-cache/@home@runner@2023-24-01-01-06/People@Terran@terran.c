@@ -1,18 +1,12 @@
 #include <stdio.h>
-#include <string.h>
-#include <time.h>
-#include <stdlib.h>
 
-int playagain = 0;
-
-int better() {
-  int playagain = 0;
-  do { 
-    char repeat;
-    printf("play again? ");
-    scanf(" %c", &repeat);
-    playagain = (repeat == 'y') ? 1 : 0;
-  } while(playagain);
-  
+int Terran() {
+  printf("Terran\n");
   return 0;
 }
+/* 
+  if (guess  "Googhoul"){
+    printf("You win")
+    break
+  }
+*/

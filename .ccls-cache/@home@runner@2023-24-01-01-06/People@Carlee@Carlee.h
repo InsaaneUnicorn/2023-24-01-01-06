@@ -1,1 +1,3 @@
-void Print_Me();
+void Carlee();
+void Which_Hangman();
+int Check_Guess();

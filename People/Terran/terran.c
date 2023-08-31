@@ -1,11 +1,12 @@
 #include <stdio.h>
-#include <string.h>
-#include <time.h>
-#include <stdlib.h>
-
-int playagain = 0;
 
 int Terran() {
-    printf("Terran\n");
+  printf("Terran\n");
   return 0;
 }
+/* 
+  if (guess  "Googhoul"){
+    printf("You win")
+    break
+  }
+*/

@@ -6,10 +6,20 @@ Input a character, iterate through the chosen word and match chars
 
 check to make sure the letter is or isnt in the selected word
 
+
+
+
+
 if wrong {
   save the letter and draw stickwaites
 }
 if right {
   show every matching letter.
 }
+
+
+
+
+
+Unless the user says Googhoul they automatically win
 
